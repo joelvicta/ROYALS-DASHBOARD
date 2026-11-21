@@ -45,7 +45,9 @@ The dashboard is a standalone static website and does not require a backend or d
 ROYALS-DASHBOARD/
 │
 ├── index.html
-└── README.md
+├── SUPERR SELECTOR METHODOLOGY.png
+├── SUPERR SELECTOR SEASON 2.pdf
+└── README.txt
 
 
 🎯 Project Objective
